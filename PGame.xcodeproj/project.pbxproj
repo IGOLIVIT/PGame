@@ -11,6 +11,28 @@
 		78AE356A2CA6B01D00CE087E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35692CA6B01D00CE087E /* ContentView.swift */; };
 		78AE356C2CA6B01E00CE087E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78AE356B2CA6B01E00CE087E /* Assets.xcassets */; };
 		78AE35702CA6B01E00CE087E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78AE356F2CA6B01E00CE087E /* Preview Assets.xcassets */; };
+		78AE35832CA6B1AC00CE087E /* AddTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35822CA6B1AC00CE087E /* AddTask.swift */; };
+		78AE35852CA6B1B400CE087E /* TaskDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35842CA6B1B400CE087E /* TaskDetail.swift */; };
+		78AE35882CA6B1DF00CE087E /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35872CA6B1DF00CE087E /* ProjectsView.swift */; };
+		78AE358A2CA6B1E800CE087E /* ProjectsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35892CA6B1E800CE087E /* ProjectsViewModel.swift */; };
+		78AE358C2CA6B1F000CE087E /* NotesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE358B2CA6B1F000CE087E /* NotesView.swift */; };
+		78AE358E2CA6B1F800CE087E /* NotesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE358D2CA6B1F800CE087E /* NotesViewModel.swift */; };
+		78AE35912CA6B20400CE087E /* AddNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35902CA6B20400CE087E /* AddNote.swift */; };
+		78AE35932CA6B21600CE087E /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35922CA6B21600CE087E /* CoreDataStack.swift */; };
+		78AE35952CA6B21C00CE087E /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35942CA6B21C00CE087E /* Array.swift */; };
+		78AE35972CA6B22200CE087E /* DateConvert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35962CA6B22200CE087E /* DateConvert.swift */; };
+		78AE35992CA6B22900CE087E /* R1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35982CA6B22900CE087E /* R1.swift */; };
+		78AE359B2CA6B22E00CE087E /* R2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE359A2CA6B22E00CE087E /* R2.swift */; };
+		78AE359D2CA6B23400CE087E /* U1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE359C2CA6B23400CE087E /* U1.swift */; };
+		78AE359F2CA6B23900CE087E /* Reviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE359E2CA6B23900CE087E /* Reviews.swift */; };
+		78AE35A12CA6B23F00CE087E /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35A02CA6B23F00CE087E /* Notes.swift */; };
+		78AE35A42CA6B25200CE087E /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78AE35A32CA6B25200CE087E /* Launch Screen.storyboard */; };
+		78AE35A62CA6B25C00CE087E /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35A52CA6B25C00CE087E /* LoadingView.swift */; };
+		78AE35A92CA6B50A00CE087E /* CoreModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35A72CA6B50A00CE087E /* CoreModel.xcdatamodeld */; };
+		78AE35AB2CA6B78C00CE087E /* Sinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35AA2CA6B78C00CE087E /* Sinus.swift */; };
+		78AE35AD2CA6B79400CE087E /* Wrangler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35AC2CA6B79400CE087E /* Wrangler.swift */; };
+		78AE35AF2CA6B79C00CE087E /* Doblo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78AE35AE2CA6B79C00CE087E /* Doblo.swift */; };
+		78AE35B22CA6B7D400CE087E /* ApphudSDK in Frameworks */ = {isa = PBXBuildFile; productRef = 78AE35B12CA6B7D400CE087E /* ApphudSDK */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +42,27 @@
 		78AE356B2CA6B01E00CE087E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78AE356D2CA6B01E00CE087E /* PGame.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PGame.entitlements; sourceTree = "<group>"; };
 		78AE356F2CA6B01E00CE087E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		78AE35822CA6B1AC00CE087E /* AddTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTask.swift; sourceTree = "<group>"; };
+		78AE35842CA6B1B400CE087E /* TaskDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetail.swift; sourceTree = "<group>"; };
+		78AE35872CA6B1DF00CE087E /* ProjectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsView.swift; sourceTree = "<group>"; };
+		78AE35892CA6B1E800CE087E /* ProjectsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsViewModel.swift; sourceTree = "<group>"; };
+		78AE358B2CA6B1F000CE087E /* NotesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesView.swift; sourceTree = "<group>"; };
+		78AE358D2CA6B1F800CE087E /* NotesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesViewModel.swift; sourceTree = "<group>"; };
+		78AE35902CA6B20400CE087E /* AddNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNote.swift; sourceTree = "<group>"; };
+		78AE35922CA6B21600CE087E /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
+		78AE35942CA6B21C00CE087E /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		78AE35962CA6B22200CE087E /* DateConvert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateConvert.swift; sourceTree = "<group>"; };
+		78AE35982CA6B22900CE087E /* R1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R1.swift; sourceTree = "<group>"; };
+		78AE359A2CA6B22E00CE087E /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
+		78AE359C2CA6B23400CE087E /* U1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = U1.swift; sourceTree = "<group>"; };
+		78AE359E2CA6B23900CE087E /* Reviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviews.swift; sourceTree = "<group>"; };
+		78AE35A02CA6B23F00CE087E /* Notes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
+		78AE35A32CA6B25200CE087E /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		78AE35A52CA6B25C00CE087E /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		78AE35A82CA6B50A00CE087E /* CoreModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreModel.xcdatamodel; sourceTree = "<group>"; };
+		78AE35AA2CA6B78C00CE087E /* Sinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sinus.swift; sourceTree = "<group>"; };
+		78AE35AC2CA6B79400CE087E /* Wrangler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wrangler.swift; sourceTree = "<group>"; };
+		78AE35AE2CA6B79C00CE087E /* Doblo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Doblo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78AE35B22CA6B7D400CE087E /* ApphudSDK in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,6 +96,7 @@
 		78AE35662CA6B01D00CE087E /* PGame */ = {
 			isa = PBXGroup;
 			children = (
+				78AE35762CA6B14000CE087E /* Project */,
 				78AE35672CA6B01D00CE087E /* PGameApp.swift */,
 				78AE35692CA6B01D00CE087E /* ContentView.swift */,
 				78AE356B2CA6B01E00CE087E /* Assets.xcassets */,
@@ -67,6 +112,130 @@
 				78AE356F2CA6B01E00CE087E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		78AE35762CA6B14000CE087E /* Project */ = {
+			isa = PBXGroup;
+			children = (
+				78AE357E2CA6B17000CE087E /* Views */,
+				78AE357D2CA6B16300CE087E /* Extensions */,
+				78AE35772CA6B14500CE087E /* Start */,
+			);
+			path = Project;
+			sourceTree = "<group>";
+		};
+		78AE35772CA6B14500CE087E /* Start */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35A22CA6B24600CE087E /* Loading */,
+				78AE357C2CA6B15D00CE087E /* R */,
+				78AE357B2CA6B15900CE087E /* U */,
+				78AE35782CA6B14A00CE087E /* Launch */,
+			);
+			path = Start;
+			sourceTree = "<group>";
+		};
+		78AE35782CA6B14A00CE087E /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35A32CA6B25200CE087E /* Launch Screen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		78AE357B2CA6B15900CE087E /* U */ = {
+			isa = PBXGroup;
+			children = (
+				78AE359C2CA6B23400CE087E /* U1.swift */,
+				78AE359E2CA6B23900CE087E /* Reviews.swift */,
+				78AE35A02CA6B23F00CE087E /* Notes.swift */,
+			);
+			path = U;
+			sourceTree = "<group>";
+		};
+		78AE357C2CA6B15D00CE087E /* R */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35982CA6B22900CE087E /* R1.swift */,
+				78AE359A2CA6B22E00CE087E /* R2.swift */,
+			);
+			path = R;
+			sourceTree = "<group>";
+		};
+		78AE357D2CA6B16300CE087E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35A72CA6B50A00CE087E /* CoreModel.xcdatamodeld */,
+				78AE35922CA6B21600CE087E /* CoreDataStack.swift */,
+				78AE35942CA6B21C00CE087E /* Array.swift */,
+				78AE35962CA6B22200CE087E /* DateConvert.swift */,
+				78AE35AA2CA6B78C00CE087E /* Sinus.swift */,
+				78AE35AC2CA6B79400CE087E /* Wrangler.swift */,
+				78AE35AE2CA6B79C00CE087E /* Doblo.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		78AE357E2CA6B17000CE087E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35802CA6B19500CE087E /* Notes */,
+				78AE357F2CA6B19000CE087E /* Projects */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		78AE357F2CA6B19000CE087E /* Projects */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35862CA6B1BB00CE087E /* TaskDetail */,
+				78AE35812CA6B1A200CE087E /* AddTask */,
+				78AE35872CA6B1DF00CE087E /* ProjectsView.swift */,
+				78AE35892CA6B1E800CE087E /* ProjectsViewModel.swift */,
+			);
+			path = Projects;
+			sourceTree = "<group>";
+		};
+		78AE35802CA6B19500CE087E /* Notes */ = {
+			isa = PBXGroup;
+			children = (
+				78AE358F2CA6B1FC00CE087E /* AddNote */,
+				78AE358B2CA6B1F000CE087E /* NotesView.swift */,
+				78AE358D2CA6B1F800CE087E /* NotesViewModel.swift */,
+			);
+			path = Notes;
+			sourceTree = "<group>";
+		};
+		78AE35812CA6B1A200CE087E /* AddTask */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35822CA6B1AC00CE087E /* AddTask.swift */,
+			);
+			path = AddTask;
+			sourceTree = "<group>";
+		};
+		78AE35862CA6B1BB00CE087E /* TaskDetail */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35842CA6B1B400CE087E /* TaskDetail.swift */,
+			);
+			path = TaskDetail;
+			sourceTree = "<group>";
+		};
+		78AE358F2CA6B1FC00CE087E /* AddNote */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35902CA6B20400CE087E /* AddNote.swift */,
+			);
+			path = AddNote;
+			sourceTree = "<group>";
+		};
+		78AE35A22CA6B24600CE087E /* Loading */ = {
+			isa = PBXGroup;
+			children = (
+				78AE35A52CA6B25C00CE087E /* LoadingView.swift */,
+			);
+			path = Loading;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -85,6 +254,9 @@
 			dependencies = (
 			);
 			name = PGame;
+			packageProductDependencies = (
+				78AE35B12CA6B7D400CE087E /* ApphudSDK */,
+			);
 			productName = PGame;
 			productReference = 78AE35642CA6B01D00CE087E /* PGame.app */;
 			productType = "com.apple.product-type.application";
@@ -113,6 +285,9 @@
 				Base,
 			);
 			mainGroup = 78AE355B2CA6B01D00CE087E;
+			packageReferences = (
+				78AE35B02CA6B7D400CE087E /* XCRemoteSwiftPackageReference "ApphudSDK" */,
+			);
 			productRefGroup = 78AE35652CA6B01D00CE087E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,6 +302,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78AE35A42CA6B25200CE087E /* Launch Screen.storyboard in Resources */,
 				78AE35702CA6B01E00CE087E /* Preview Assets.xcassets in Resources */,
 				78AE356C2CA6B01E00CE087E /* Assets.xcassets in Resources */,
 			);
@@ -139,8 +315,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78AE35992CA6B22900CE087E /* R1.swift in Sources */,
+				78AE35882CA6B1DF00CE087E /* ProjectsView.swift in Sources */,
+				78AE35972CA6B22200CE087E /* DateConvert.swift in Sources */,
+				78AE35832CA6B1AC00CE087E /* AddTask.swift in Sources */,
+				78AE35AF2CA6B79C00CE087E /* Doblo.swift in Sources */,
+				78AE358A2CA6B1E800CE087E /* ProjectsViewModel.swift in Sources */,
+				78AE35A12CA6B23F00CE087E /* Notes.swift in Sources */,
+				78AE35AD2CA6B79400CE087E /* Wrangler.swift in Sources */,
+				78AE35852CA6B1B400CE087E /* TaskDetail.swift in Sources */,
 				78AE356A2CA6B01D00CE087E /* ContentView.swift in Sources */,
+				78AE35912CA6B20400CE087E /* AddNote.swift in Sources */,
+				78AE359B2CA6B22E00CE087E /* R2.swift in Sources */,
+				78AE359D2CA6B23400CE087E /* U1.swift in Sources */,
+				78AE35932CA6B21600CE087E /* CoreDataStack.swift in Sources */,
+				78AE35AB2CA6B78C00CE087E /* Sinus.swift in Sources */,
+				78AE359F2CA6B23900CE087E /* Reviews.swift in Sources */,
+				78AE358E2CA6B1F800CE087E /* NotesViewModel.swift in Sources */,
+				78AE35952CA6B21C00CE087E /* Array.swift in Sources */,
+				78AE358C2CA6B1F000CE087E /* NotesView.swift in Sources */,
+				78AE35A92CA6B50A00CE087E /* CoreModel.xcdatamodeld in Sources */,
 				78AE35682CA6B01D00CE087E /* PGameApp.swift in Sources */,
+				78AE35A62CA6B25C00CE087E /* LoadingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,17 +468,19 @@
 				DEVELOPMENT_ASSET_PATHS = "\"PGame/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "PlNAP Game";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -290,10 +488,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.PGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -308,17 +507,19 @@
 				DEVELOPMENT_ASSET_PATHS = "\"PGame/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "PlNAP Game";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -326,10 +527,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.PGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -355,6 +557,39 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		78AE35B02CA6B7D400CE087E /* XCRemoteSwiftPackageReference "ApphudSDK" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apphud/ApphudSDK.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.5.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		78AE35B12CA6B7D400CE087E /* ApphudSDK */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 78AE35B02CA6B7D400CE087E /* XCRemoteSwiftPackageReference "ApphudSDK" */;
+			productName = ApphudSDK;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		78AE35A72CA6B50A00CE087E /* CoreModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				78AE35A82CA6B50A00CE087E /* CoreModel.xcdatamodel */,
+			);
+			currentVersion = 78AE35A82CA6B50A00CE087E /* CoreModel.xcdatamodel */;
+			name = CoreModel.xcdatamodeld;
+			path = "/Users/igor/Downloads/App865-2/App865/Project/Extensions/CoreModel.xcdatamodeld";
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 78AE355C2CA6B01D00CE087E /* Project object */;
 }
