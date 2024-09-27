@@ -9,15 +9,15 @@ import SwiftUI
 
 struct DataManager {
     
-    let appHudID: String = "app_iLseZKLy72guYBmReW6KaizYsn66Ur"
-    let oneSignalID: String = "003c6cf0-2fa2-44c5-933f-0347619453b1"
+    let appHudID: String = "app_shLMXvGANyULf92CewaWHEuu76q3rx"
+    let oneSignalID: String = "055ae37c-5950-459d-981f-bbb628821d62"
     
-    let codeTech: String = "unended"
-    let sinus: String = "devsparkhub.fun/app/adm1r4lv1s10n"
+    let codeTech: String = "is_cancelled"
+    let sinus: String = "webcodewave.fun/app/t4k3s3ns3n3xus"
     let isAllChangeURL: Bool = false
     let isDead: Bool = true
     
-    let urlCodeTech: String = "is_approximate"
+    let urlCodeTech: String = "is_last"
     
-    let usagePolicy: String = "https://www.termsfeed.com/live/9c6d71c3-794a-4001-a90b-b54d4877f9fe"
+    let usagePolicy: String = "https://www.termsfeed.com/live/ae87df90-c32c-493a-84ec-68e39c29e6df"
 }
