@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="NotesModel" representedClassName="NotesModel" syncable="YES" codeGenerationType="class">
+        <attribute name="notTask" optional="YES" attributeType="String"/>
+        <attribute name="notText" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="RecModel" representedClassName="RecModel" syncable="YES" codeGenerationType="class">
+        <attribute name="recCat" optional="YES" attributeType="String"/>
+        <attribute name="recDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="recDescr" optional="YES" attributeType="String"/>
+        <attribute name="recTitle" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="TaskModel" representedClassName="TaskModel" syncable="YES" codeGenerationType="class">
+        <attribute name="taskCat" optional="YES" attributeType="String"/>
+        <attribute name="taskDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="taskTitle" optional="YES" attributeType="String"/>
+    </entity>
+</model>
